@@ -1,2 +1,2 @@
 # Com-511
-python programming lab experiments covered during 5th semester.
+this repo contains python programming lab experiments, extra programs and assignment covered during 5th semester.
